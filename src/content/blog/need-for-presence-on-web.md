@@ -8,8 +8,6 @@ draft: false
 tags:
   - web
   - create
-  - blog
-  - causal determininsm
 description: We are connected to the internet every hour of the day. How much of that engagement is intentional?
 ---
 
